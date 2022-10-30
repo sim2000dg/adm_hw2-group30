@@ -2,6 +2,7 @@
 
 The main file, _Homework2_30thGroup.ipynb_, is the notebook containing the research questions (+ the bonus questions) and the solutions
 to the algorithm questions. The notebook has an index with links to every and each section of the text, in order to navigate it better. 
+The HTML version of the notebook was also added for ease of consultation.
 
 There is also another important file, _CommandLine.sh_, which holds the solution to the Command Line Question, with comments/explanations inside the file itself. 
 
