@@ -1,6 +1,6 @@
 # Repository for 2nd homework of ADM/Data Science @Sapienza
 
-The main file, _Homework2_30thGroup.ipynb_, is the notebook containing the research questions (+ the bonus questions) and the solutions
+The main file, _main.ipynb_, is the notebook containing the research questions (+ the bonus questions) and the solutions
 to the algorithm questions. The notebook has an index with links to every and each section of the text, in order to navigate it better. 
 The HTML version of the notebook was also added for ease of consultation.
 
